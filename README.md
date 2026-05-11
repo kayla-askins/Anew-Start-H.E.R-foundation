@@ -28,4 +28,4 @@ The visual identity is built around the theme **"light from shadows"** — refle
 
 ## About Me
 
-Built in 2025 as part of my pivot from biomedical equipment service into frontend development and data analytics. See more on my [LinkedIn](https://www.linkedin.com/in/kayla-askins-b105b4177).
+Built in 2026 as part of my pivot from biomedical equipment service into frontend development and data analytics. See more on my [LinkedIn](https://www.linkedin.com/in/kayla-askins-b105b4177).
